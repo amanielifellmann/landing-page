@@ -12,7 +12,7 @@ In diesem Projekt habe ich folgende Konzepte vertieft:
 - **Design-Umsetzung:** Ein statisches Design-Bild in funktionalen Code verwandeln.
 
 ## 📸 Screenshot
-![Screenshot meiner Seite](./pfad-zu-deinem-bild.png)(Seite noch in bearbeitung)
+![Screenshot meiner Seite](./screenshot.png)
 
 ## ✍️ Credits
 Das Design-Konzept stammt von The Odin Project.
