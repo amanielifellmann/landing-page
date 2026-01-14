@@ -3,7 +3,7 @@
 Ein responsives Web-Layout, erstellt als Teil des [The Odin Project](https://www.theodinproject.com/) Lehrplans.
 
 ## 🚀 Live Demo
-Du kannst dir das fertige Projekt hier ansehen: [Link zu deinen GitHub Pages](Seite noch in bearbeitung)
+Du kannst dir das fertige Projekt hier ansehen: [https://amanielifellmann.github.io/landing-page/]
 
 ## 🛠 Features & Lernziele
 In diesem Projekt habe ich folgende Konzepte vertieft:
