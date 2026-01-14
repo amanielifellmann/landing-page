@@ -120,7 +120,7 @@ p {
 }
 
 .top-sub-image-container {
-    background-color: gray;
+    background-color: rgb(112, 114, 122);
     width: 100%;
     aspect-ratio: 7/3;
 
@@ -180,7 +180,7 @@ p {
 }
 
 .info-image-text {
-    color: gray;
+    color: #1f2937;
     font-size: 18px;
 
     width: 200px;
@@ -189,13 +189,41 @@ p {
     text-align: center;
 }
 
-/*Quote-container*/
+/*Quote Box*/
 #quote-container {
     background-color: #E5e7eb;
     height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#quote-text {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+#author-text {
+    font-size: 24px;
+    color: #1f2937;
+    font-weight: 900;
+    align-self: flex-end;
 }
 
 /*Sign up Box*/
 #sign-container {
     height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+/*Footer Box*/
+footer {
+    background-color: #1F2937;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
 }
