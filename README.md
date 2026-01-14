@@ -3,7 +3,7 @@
 Ein responsives Web-Layout, erstellt als Teil des [The Odin Project](https://www.theodinproject.com/) Lehrplans.
 
 ## 🚀 Live Demo
-Du kannst dir das fertige Projekt hier ansehen: [Link zu deinen GitHub Pages]
+Du kannst dir das fertige Projekt hier ansehen: [Link zu deinen GitHub Pages](Seite noch in bearbeitung)
 
 ## 🛠 Features & Lernziele
 In diesem Projekt habe ich folgende Konzepte vertieft:
@@ -12,7 +12,7 @@ In diesem Projekt habe ich folgende Konzepte vertieft:
 - **Design-Umsetzung:** Ein statisches Design-Bild in funktionalen Code verwandeln.
 
 ## 📸 Screenshot
-![Screenshot meiner Seite](./pfad-zu-deinem-bild.png)
+![Screenshot meiner Seite](./pfad-zu-deinem-bild.png)(Seite noch in bearbeitung)
 
 ## ✍️ Credits
 Das Design-Konzept stammt von The Odin Project.
